@@ -228,7 +228,7 @@ map_amplicon_rhizosphere
 
 ## MAPA POR CATEGORIA----------------------------------------------------------
 
-# Cargar las ubicaciones de las tres bases de datos
+  # Cargar las ubicaciones de las tres bases de datos
 locations_water <- data.frame(
   lat = amplicon_water$lat, lon = amplicon_water$lon)
 locations_rhizosphere <- data.frame(
